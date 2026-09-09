@@ -8,3 +8,4 @@ a.out
 docs/
 models/autoencoder.pt
 models/loss_history.npz
+.serena/
